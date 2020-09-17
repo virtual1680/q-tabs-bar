@@ -1,7 +1,7 @@
 {
   "name": "q-tabs-bar",
   "description": "vue 支持自定义的tab bar",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "author": "itperson <772622542@qq.com>",
   "license": "MIT",
   "private": false,

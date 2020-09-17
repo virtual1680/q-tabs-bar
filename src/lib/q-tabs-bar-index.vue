@@ -105,8 +105,6 @@
     color: #FFFFFF;
   }
   .tabs-content {
-    padding-left: 20px;
-    padding-right: 20px;
     padding-bottom: 10px;
   }
 </style>

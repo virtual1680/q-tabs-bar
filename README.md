@@ -2,6 +2,7 @@
 
 > vue 顶部选项卡，支持自定义
 
+npm https://www.npmjs.com/package/q-tabs-bar
 ```
 # 安装
 npm install q-tabs-bar
